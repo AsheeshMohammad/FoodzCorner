@@ -10,27 +10,27 @@ const HeroSection = () => {
     {
       title: 'Your Go-To Spot for Quick and Tasty Eats!',
       description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking.',
-      image: '/src/assets/Images/burger.jpg'
+      image: '/images/burger.jpg'
     },
     {
       title: 'Fresh Pizza Delivered Hot!',
       description: 'Experience the authentic taste of wood-fired pizza made with fresh ingredients and delivered hot to your door.',
-      image: '/src/assets/Images/chikkenpizza.jpg'
+      image: '/images/chikkenpizza.jpg'
     },
     {
       title: 'Crispy Fries & More!',
       description: 'Golden crispy fries and delicious sides that perfectly complement your favorite meals.',
-      image: '/src/assets/Images/frenchfries.jpg'
+      image: '/images/frenchfries.jpg'
     },
     {
       title: 'Sweet Treats & Desserts!',
       description: 'End your meal on a sweet note with our selection of delicious desserts and beverages.',
-      image: '/src/assets/Images/pastry.jpg'
+      image: '/images/pastry.jpg'
     },
     {
       title: 'Refreshing Cool Drinks!',
       description: 'Beat the heat with our refreshing collection of cool drinks and beverages.',
-      image: '/src/assets/Images/cooldrtinks.jpg'
+      image: '/images/cooldrtinks.jpg'
     }
   ];
 
