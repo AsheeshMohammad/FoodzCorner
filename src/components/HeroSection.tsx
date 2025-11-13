@@ -8,28 +8,28 @@ const HeroSection = () => {
   
   const banners = [
     {
-      title: 'Your Go-To Spot for Quick and Tasty Eats!',
-      description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking.',
+      title: 'Premium Fast Food Delivered in 30 Minutes',
+      description: 'Experience the finest quality fast food with our express delivery service. Fresh ingredients, authentic flavors, and guaranteed satisfaction with every order.',
       image: '/images/burger.jpg'
     },
     {
-      title: 'Fresh Pizza Delivered Hot!',
-      description: 'Experience the authentic taste of wood-fired pizza made with fresh ingredients and delivered hot to your door.',
+      title: 'Artisan Pizzas Made Fresh Daily',
+      description: 'Hand-tossed pizzas with premium toppings and wood-fired perfection. Made with imported cheese and fresh vegetables for an authentic Italian experience.',
       image: '/images/chikkenpizza.jpg'
     },
     {
-      title: 'Crispy Fries & More!',
-      description: 'Golden crispy fries and delicious sides that perfectly complement your favorite meals.',
+      title: 'Gourmet Sides & Crispy Delights',
+      description: 'Perfectly seasoned fries and premium sides made with the finest potatoes. Crispy on the outside, fluffy on the inside - every single time.',
       image: '/images/frenchfries.jpg'
     },
     {
-      title: 'Sweet Treats & Desserts!',
-      description: 'End your meal on a sweet note with our selection of delicious desserts and beverages.',
+      title: 'Artisan Desserts & Sweet Treats',
+      description: 'Indulge in our handcrafted desserts made by expert pastry chefs. Premium ingredients and traditional recipes for the perfect sweet ending.',
       image: '/images/pastry.jpg'
     },
     {
-      title: 'Refreshing Cool Drinks!',
-      description: 'Beat the heat with our refreshing collection of cool drinks and beverages.',
+      title: 'Fresh Beverages & Healthy Options',
+      description: 'Refreshing drinks made with natural ingredients. From fresh juices to specialty beverages, we offer healthy options to complement your meal.',
       image: '/images/cooldrtinks.jpg'
     }
   ];

@@ -34,7 +34,8 @@ const MenuSection = () => {
           maxWidth: 600,
           mx: 'auto'
         }}>
-          Discover our delicious selection of fast food favorites
+          Explore our carefully curated menu featuring premium ingredients, authentic recipes, and unbeatable value. 
+          Every dish is prepared fresh to order with quality you can taste.
         </Typography>
       </Box>
       

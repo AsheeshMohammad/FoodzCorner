@@ -28,7 +28,7 @@ const BestSelling = () => {
           mb: 2,
           fontSize: { xs: '1.5rem', sm: '2rem', md: '2.8rem' }
         }}>
-          Best <span style={{ color: '#ff6b6b' }}>Delivered</span> Categories
+          Customer <span style={{ color: '#ff6b6b' }}>Favorites</span>
         </Typography>
         <Typography variant="body1" sx={{ 
           color: 'text.secondary',
@@ -36,8 +36,8 @@ const BestSelling = () => {
           mx: 'auto',
           fontSize: '0.95rem'
         }}>
-          Here Are Some Of Our Best Distributed Categories. If You Want You Can Order 
-          From Here.
+          Discover our most popular items loved by thousands of customers. 
+          Premium quality ingredients and authentic flavors in every bite.
         </Typography>
       </Box>
       <Grid container spacing={{ xs: 1.5, sm: 2, md: 6 }} justifyContent={'center'}>

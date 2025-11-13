@@ -75,7 +75,8 @@ const Footer = () => {
               <span style={{ color: '#4caf50' }}>Corner</span>
             </Typography>
             <Typography variant="body2" sx={{ mb: 3, opacity: 0.9 }}>
-              Empowering food lovers with delicious fast food options to improve taste satisfaction and dining outcomes.
+              Your trusted partner for premium fast food delivery. Serving fresh, quality meals with exceptional service since 2020. 
+              Over 50,000+ satisfied customers and counting.
             </Typography>
             <Box sx={{ display: 'flex', gap: 1 }}>
               <IconButton sx={{ color: 'white', bgcolor: 'rgba(255,255,255,0.1)' }}>

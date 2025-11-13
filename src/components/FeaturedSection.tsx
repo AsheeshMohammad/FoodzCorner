@@ -46,8 +46,8 @@ const FeaturedSection = () => {
             fontSize: { xs: '2rem', md: '2.8rem' },
             lineHeight: 1.2
           }}>
-            Captivating Culinary{' '}
-            <span style={{ color: '#4caf50' }}>Favorites.</span>
+            Exceptional Food{' '}
+            <span style={{ color: '#4caf50' }}>Experience.</span>
           </Typography>
           <Typography variant="body1" sx={{ 
             mb: 4, 
@@ -56,10 +56,9 @@ const FeaturedSection = () => {
             fontSize: '1.1rem',
             maxWidth: 450
           }}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-            enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-            nisi ut aliquip ex ea commodo consequat.
+            We pride ourselves on delivering restaurant-quality meals with the convenience 
+            of home delivery. Our expert chefs use premium ingredients and time-tested recipes 
+            to create unforgettable flavors that keep our customers coming back for more.
           </Typography>
           <Box sx={{ display: 'flex', gap: 3, alignItems: 'center' }}>
             <Button 
@@ -76,7 +75,7 @@ const FeaturedSection = () => {
               Order Now →
             </Button>
             <Button variant="text" sx={{ color: '#4caf50', textTransform: 'none', fontWeight: 'bold' }}>
-              About TastyPop
+              About FoodZCorner
             </Button>
           </Box>
         </Grid>

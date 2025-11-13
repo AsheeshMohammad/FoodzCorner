@@ -5,6 +5,7 @@ import FoodCategories from './components/FoodCategories';
 import FeaturedSection from './components/FeaturedSection';
 import BestSelling from './components/BestSelling';
 import MenuSection from './components/MenuSection';
+import BusinessInfo from './components/BusinessInfo';
 import Footer from './components/Footer';
 
 const theme = createTheme({
@@ -31,6 +32,7 @@ function App() {
       <FeaturedSection />
       <BestSelling />
       <MenuSection />
+      <BusinessInfo />
       <Footer />
     </ThemeProvider>
   );
