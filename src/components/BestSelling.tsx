@@ -4,17 +4,17 @@ import ProductCard from './ProductCard';
 const BestSelling = () => {
   const products = [
     {
-      image: '/src/assets/Images/burger.jpg',
+      image: '/images/burger.jpg',
       title: 'Chicken Burger',
       category: 'Burger'
     },
     {
-      image: '/src/assets/Images/chikkenpizza.jpg',
+      image: '/images/chikkenpizza.jpg',
       title: 'Chicken Pizza',
       category: 'Pizza'
     },
     {
-      image: '/src/assets/Images/frenchfries.jpg',
+      image: '/images/frenchfries.jpg',
       title: 'French Fries',
       category: 'Sides'
     }

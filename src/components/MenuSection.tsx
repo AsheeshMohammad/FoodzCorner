@@ -3,16 +3,16 @@ import { ShoppingCart } from '@mui/icons-material';
 
 const MenuSection = () => {
   const menuItems = [
-    { name: 'Classic Burger', price: '₹199', image: '/src/assets/Images/burger.jpg' },
-    { name: 'Chicken Pizza', price: '₹299', image: '/src/assets/Images/chikkenpizza.jpg' },
-    { name: 'French Fries', price: '₹99', image: '/src/assets/Images/frenchfries.jpg' },
-    { name: 'Sweet Pastry', price: '₹79', image: '/src/assets/Images/pastry.jpg' },
-    { name: 'Cool Drinks', price: '₹49', image: '/src/assets/Images/cooldrtinks.jpg' },
-    { name: 'Cheese Burger', price: '₹229', image: '/src/assets/Images/burger.jpg' },
-    { name: 'Margherita Pizza', price: '₹279', image: '/src/assets/Images/chikkenpizza.jpg' },
-    { name: 'Crispy Fries', price: '₹119', image: '/src/assets/Images/frenchfries.jpg' },
-    { name: 'Chocolate Pastry', price: '₹89', image: '/src/assets/Images/pastry.jpg' },
-    { name: 'Fresh Juice', price: '₹69', image: '/src/assets/Images/cooldrtinks.jpg' }
+    { name: 'Classic Burger', price: '₹199', image: '/images/burger.jpg' },
+    { name: 'Chicken Pizza', price: '₹299', image: '/images/chikkenpizza.jpg' },
+    { name: 'French Fries', price: '₹99', image: '/images/frenchfries.jpg' },
+    { name: 'Sweet Pastry', price: '₹79', image: '/images/pastry.jpg' },
+    { name: 'Cool Drinks', price: '₹49', image: '/images/cooldrtinks.jpg' },
+    { name: 'Cheese Burger', price: '₹229', image: '/images/burger.jpg' },
+    { name: 'Margherita Pizza', price: '₹279', image: '/images/chikkenpizza.jpg' },
+    { name: 'Crispy Fries', price: '₹119', image: '/images/frenchfries.jpg' },
+    { name: 'Chocolate Pastry', price: '₹89', image: '/images/pastry.jpg' },
+    { name: 'Fresh Juice', price: '₹69', image: '/images/cooldrtinks.jpg' }
   ];
 
   const handleMoreClick = () => {
