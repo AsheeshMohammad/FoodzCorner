@@ -5,7 +5,7 @@ const FoodCategories = () => {
   const categories = [
     { icon: '🍽️', title: 'Combo Meals' },
     { icon: '🍝', title: 'Pasta' },
-    { icon: '🍔', title: 'Burger', isActive: true },
+    { icon: '🍔', title: 'Burger' },
     { icon: '🥪', title: 'Sandwich' },
     { icon: '🍟', title: 'Sides & Fries' },
     { icon: '🍼', title: 'Kids Meals' }
